@@ -1,1 +1,1 @@
-personal portfolio using three.js and react.js
+personal portfolio using html,css, tailwind ,three.js and react.js
